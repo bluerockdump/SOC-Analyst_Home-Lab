@@ -1,6 +1,6 @@
 Network Diagram
 
-Purpose
+Purpose:
 
 This document describes the architecture of my SOC Analyst Home Lab.
 
