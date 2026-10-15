@@ -1,0 +1,7 @@
+## Findings
+
+1. Three failed authentication attempts were identified.
+2. The target account was "labuser."
+3. No evidence of account compromise was observed.
+4. No successful login occurred after the failed attempts.
+5. Activity was generated within the lab environment.
